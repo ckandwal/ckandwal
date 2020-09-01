@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Charu Kandwal 👋
 
 <!--
 **ckandwal/ckandwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a data driven, experienced technology professional with a demonstrated history of solving business problems leveraging technology and implementing customer-facing technology solutions. Skilled in solution designing, data modelling, information management, system integration, analytics, statistical modelling, and storytelling. Strong business acumen and management background in corporate IT ecosystem, OTC and Commerce.
+
